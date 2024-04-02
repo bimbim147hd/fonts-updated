@@ -1,0 +1,8 @@
+@font-face {
+  font-family: "GTAmericaRegular";
+  src: url("../font/gt-america-regular/GTAmerica-Regular.svg#GTAmerica-Regular") format("svg"),
+    url("../font/gt-america-regular/GTAmerica-Regular.ttf") format("truetype"),
+    url("../font/gt-america-regular/GTAmerica-Regular.woff") format("woff");
+  font-weight: normal;
+  font-style: normal;
+}
